@@ -3,7 +3,7 @@
 ## I'm a college student pursing B.Tech in Information Technology and I love to code!!
 
 - 🔭 I recently started coding.
--    I recently started competitive coding at HackerEarth and CodeForces
+-    I recently started competitive coding at HackerEarth,LeetCode and CodeForces
 - 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD)
 
 
@@ -63,11 +63,6 @@ HTML                        0 secs          ░░░░░░░░░░░░
 
 </ul>
 
-- 👋 Hi, I’m @AmanDekate1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 AmanDekate1/AmanDekate1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
