@@ -24,7 +24,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     </td>
 
-###connect with me:
+  
+  
+CONNECT WITH ME:
 
 <a target="_blank" href="https://twitter.com/Amandekate1" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
