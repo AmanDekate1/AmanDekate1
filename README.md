@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Hi%20there,%20I'm%20Aman👋&fontSize=50)
 
-## I'm a college student pursing B.Tech in Information Technology and I love to code!!
 
-- 🔭 I recently started coding.
--    I recently started competitive coding at HackerEarth,LeetCode and CodeForces
-- 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD)
+
+- 🔭  I recently started coding.
+-     I am pursuing B.Tech in Information Technology.
+-     I recently started practicing at HackerEarth,LeetCode, CodeForces and GeeksForGeeks.
+- 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD).
 
 
 
