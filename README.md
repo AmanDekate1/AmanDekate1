@@ -2,10 +2,10 @@
 
 
 
-- 🔭  I recently started coding.
--     I am pursuing B.Tech in Information Technology.
--     I recently started practicing at HackerEarth,LeetCode, CodeForces and GeeksForGeeks.
-- 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD).
+-  I recently started coding.🧑‍💻
+-  I am pursuing B.Tech in Information Technology.👨‍🎓
+-  I recently started practicing at HackerEarth,LeetCode, CodeForces and GeeksForGeeks.🏆
+-  I’m currently learning Data Structures and Algorithms(who isn't? xD).💯
 
 
 
