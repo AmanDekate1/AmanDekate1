@@ -14,6 +14,8 @@
    <td><b style="font-size:30px">🧰 Languages and Tools</b></td>  
     
  </tr>
+ <br>
+ <br>
  <tr>
     <td>
   
@@ -47,6 +49,8 @@ CONNECT WITH ME:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandekate1&show_icons=true&hide_border=true&theme=dracula" /> </td>
 
   </tr>
+ <br>
+ <br>
 
   ```text
 Total Time: 9 hrs 30 mins
