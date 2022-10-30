@@ -39,7 +39,8 @@ CONNECT WITH ME:
 <a target="_blank" href="https://www.instagram.com/aman.dekate/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<br>
+  <br>
 <br />
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Amandekate1&theme=dracula">
 
@@ -53,20 +54,20 @@ CONNECT WITH ME:
  <br>
 
   ```text
-Total Time: 9 hrs 30 mins
+Total Time: 9 hrs 45 mins
 DSA                         4 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.48 %
-C++                         2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   36.73 %
-C                           1 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Python                      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Competitive Programming     1  hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HTML                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++                         2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   31.73 %
+C                           1 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python                      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Competitive Programming     1  hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+HTML                        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
    
 [twitter]:https://twitter.com/Amandekate1
-
 [instagram]: https://www.instagram.com/aman.dekate/
 [linkedin]: https://www.linkedin.com/in/aman-dekate-403990234/
-
+<br>
+ <br>
 
 </ul>
 
