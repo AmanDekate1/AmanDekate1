@@ -39,10 +39,14 @@ CONNECT WITH ME:
 <a target="_blank" href="https://www.instagram.com/aman.dekate/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+  
 <br>
   <br>
-<br />
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Amandekate1&theme=dracula">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AmanDekate1&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <br>
+<br>
+
 
 <table width="100%">
   <tr>
@@ -52,8 +56,10 @@ CONNECT WITH ME:
   </tr>
  <br>
  <br>
+ 
 
   ```text
+ 
 Total Time: 9 hrs 45 mins
 DSA                         4 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.48 %
 C++                         2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   31.73 %
