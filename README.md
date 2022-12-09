@@ -8,7 +8,7 @@
 -  I’m currently learning Data Structures and Algorithms(who isn't? xD).💯
 
 
-
+<div align="center">
 <table border="0">
  <tr>
    <td><b style="font-size:30px">🧰 Languages and Tools</b></td>  
@@ -16,6 +16,7 @@
  </tr>
  <br>
  <br>
+
  <tr>
     <td>
   
@@ -25,9 +26,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     </td>
-
+ </div>   
   <hr>
-  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
+<div align="center">
 CONNECT WITH ME:
 
 <a target="_blank" href="https://twitter.com/Amandekate1" target="_blank">
@@ -39,7 +44,7 @@ CONNECT WITH ME:
 <a target="_blank" href="https://www.instagram.com/aman.dekate/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-  
+
 <br>
   <br>
   
@@ -72,6 +77,7 @@ HTML                        15 mins         ░░░░░░░░░░░░
 [twitter]:https://twitter.com/Amandekate1
 [instagram]: https://www.instagram.com/aman.dekate/
 [linkedin]: https://www.linkedin.com/in/aman-dekate-403990234/
+</div>
 <br>
  <br>
 
