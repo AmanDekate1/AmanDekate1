@@ -54,7 +54,7 @@ CONNECT WITH ME:
  
  
   [![GitHub Streak](https://streak-stats.demolab.com?user=AmanDekate1&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanDekate1&theme=onedark" alt="AmanDekate1" /></a> </p>
   <br>
 <br>
 
